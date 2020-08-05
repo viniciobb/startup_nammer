@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "295404676274",
+    "firebase_url": "https://bandnamesurvey-e675d.firebaseio.com",
+    "project_id": "bandnamesurvey-e675d",
+    "storage_bucket": "bandnamesurvey-e675d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295404676274:android:2ca01f08f28952784bd5ab",
+        "android_client_info": {
+          "package_name": "com.flutter.firebase.example.flutterfirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295404676274-9rl6ud5heuqu1bpgdr1ece1s57cfv8lm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDItFGvOQbWp0Byj6MyEbk98_zy3xJHCn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295404676274-9rl6ud5heuqu1bpgdr1ece1s57cfv8lm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
